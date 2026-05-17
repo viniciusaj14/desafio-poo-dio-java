@@ -1,0 +1,25 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled files
+*.class
+
+# Java artifacts
+*.jar
+*.war
+*.ear
+
+# Build directories
+out/
+target/
+build/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
